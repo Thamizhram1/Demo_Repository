@@ -9,3 +9,5 @@ or they wont consider my points and let the rating as same as already provided
 Adding step 10 for GitHup pull test to jenkins
 Hope it will work
 Test
+Testing the pull from Git to Jenkins
+Test check
